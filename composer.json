@@ -1,6 +1,9 @@
 {
 	"name" : "siad007/scryphp",
 	"description" : "webscraper tool",
+	"license" : [
+		"BSD-3-Clause-Clear"
+	],
 	"require" : {
 		"monolog/monolog" : "~1.6",
 		"symfony/console" : "~2.3",
