@@ -1,5 +1,6 @@
 {
-	"name" : "Scryphp/scryphp",
+	"name" : "siad007/scryphp",
+	"description" : "webscraper tool",
 	"require" : {
 		"monolog/monolog" : "~1.6",
 		"symfony/console" : "~2.3",
