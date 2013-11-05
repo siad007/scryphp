@@ -1,0 +1,16 @@
+{
+	"name" : "Scryphp/scryphp",
+	"require" : {
+		"monolog/monolog" : "~1.6",
+		"symfony/console" : "~2.3",
+		"symfony/config" : "~2.3",
+		"php" : ">=5.4",
+		"symfony/yaml" : "~2.3",
+		"fabpot/goutte" : "1.0.3"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Scryphp" : "src"
+		}
+	}
+}
