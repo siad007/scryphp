@@ -1,4 +1,0 @@
-mehralsnix:
-  uri: http://www.vdr-service.de/hotel-zertifizierung/certified-green-hotel/
-  method: GET
-  selector: '.csc-default'

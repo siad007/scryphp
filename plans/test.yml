@@ -1,4 +1,0 @@
-test:
-  uri: http://symfony.com/doc/current/components/console/usage.html
-  method: GET
-  selector: '#using-console-commands-shortcuts-and-built-in-commands p'
